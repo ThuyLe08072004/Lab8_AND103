@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="25dp"/> <!-- Điều chỉnh giá trị radius theo mong muốn -->
+    <solid android:color="#fff"/><!-- Màu nền của navigation drawer -->
+</shape>
